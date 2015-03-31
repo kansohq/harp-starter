@@ -1,0 +1,6 @@
+{
+  "name": "harp-starter",
+  "scripts": {
+    "start": "harp server & browser-sync start --no-notify --proxy \"localhost:9000\" --files \"public/**/*.*, public/*.*\""
+  }
+}
